@@ -1,0 +1,7 @@
+/.idea*
+/Assembly*
+bin/
+obj/
+packages/
+*.DotSettings.user
+*.DotSettings
